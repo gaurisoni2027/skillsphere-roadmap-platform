@@ -33,6 +33,9 @@ This project was built to showcase modern frontend development skills including:
 - Responsive dashboard layout
 
 ---
+## 🌐 Live Demo
+
+https://skillsphere-roadmap-platform-dmo8utyjm.vercel.app/
 
 ## 🛠️ Tech Stack
 
