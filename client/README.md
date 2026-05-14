@@ -69,4 +69,27 @@ Example:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/gaurisoni2027/skillsphere-roadmap-platform.git
+
+
+Go to project folder:
+
+```bash
+cd client
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+## 👩‍💻 Author
+
+Gauri Soni
