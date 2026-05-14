@@ -1,16 +1,72 @@
-# React + Vite
+# SkillSphere 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkillSphere is a modern frontend-focused roadmap and skill tracking platform built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+The platform helps students and developers:
+- track learning progress,
+- explore interactive roadmaps,
+- unlock skills,
+- monitor achievements,
+- and stay motivated while learning.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was built to showcase modern frontend development skills including:
+- React architecture
+- responsive UI design
+- interactive graph-based interfaces
+- authentication systems
+- reusable components
+- animations and modern UX
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Modern responsive landing page
+- Login & Signup authentication
+- Protected routes
+- Interactive roadmap graph using React Flow
+- Skill progress tracking
+- XP and badge system
+- Multiple roadmap support
+- Dark mode UI
+- Smooth animations with Framer Motion
+- Responsive dashboard layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- React Router
+- Framer Motion
+- React Flow
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+---
+
+## 📸 Screenshots
+
+Add project screenshots here.
+
+Example:
+- Landing Page
+- Dashboard
+- Roadmap Interface
+- Authentication Pages
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPO_LINK
