@@ -1,0 +1,22 @@
+/* React Flow — SkillSphere roadmap canvas */
+.roadmap-canvas .react-flow__attribution {
+  background: transparent;
+  opacity: 0.5;
+  font-size: 10px;
+}
+
+.roadmap-canvas .react-flow__attribution a {
+  color: rgb(113 113 122);
+}
+
+.dark .roadmap-canvas .react-flow__attribution a {
+  color: rgb(161 161 170);
+}
+
+.roadmap-canvas .react-flow__controls-button {
+  border-radius: 10px;
+}
+
+.roadmap-canvas .react-flow__minimap-mask {
+  fill: rgb(24 24 27 / 0.55);
+}
